@@ -1,0 +1,33 @@
+{
+  "name": "@hasnat/loadasset",
+  "version": "0.0.1",
+  "description": "Load Assets supported: html,js,css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/hasnat/loadAsset.git"
+  },
+  "keywords": [
+    "asset",
+    "html",
+    "js",
+    "css",
+    "promised",
+    "script",
+    "tags",
+    "style",
+    "load",
+    "onload",
+    "global",
+    "scope"
+  ],
+  "author": "Hasnat",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/hasnat/loadAsset/issues"
+  },
+  "homepage": "https://github.com/hasnat/loadAsset#readme"
+}
