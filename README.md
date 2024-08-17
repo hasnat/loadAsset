@@ -5,7 +5,19 @@ Loads js to global scope; style and html to provided dom element
 - loadAsset (load/cache asset provides onload)
 - insertHTML (loads html/js/css/link/script etc)
 - file_get_contents (loads url content, uses fetch)
-  `npm i @hasnat/loadasset` ( https://www.npmjs.com/package/@hasnat/loadasset )
+### npm
+`npm i @hasnat/loadasset` ( https://www.npmjs.com/package/@hasnat/loadasset )
+
+### cdn example
+```
+
+<script
+        defer
+        src="https://cdn.jsdelivr.net/npm/@hasnat/loadasset@0.0.1/index.js"
+></script>
+```
+
+### Usage example
 ```javascript
 e.g.
 // simply
